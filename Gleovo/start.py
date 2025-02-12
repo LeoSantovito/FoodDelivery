@@ -1,0 +1,6 @@
+print("Caricamento dati e generazione fatti Prolog... \n\n")
+exec(open("generaFatti.py").read())
+print("Assegnazione dei rider in corso...\n\n")
+exec(open("selezioneRider.py").read())
+print("Ricerca dei migliori percorsi in corso...\n\n")
+exec(open("ricercaPercorso.py").read())

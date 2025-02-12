@@ -1,0 +1,9 @@
+rider_id,nome,rider_lat,rider_lon,mezzo_trasporto
+1,"Rider 1",41.126171,16.871437,"bici"
+2,"Rider 2",41.125909,16.867360,"moto"
+3,"Rider 3",41.115775,16.879348,"auto"
+4,"Rider 4",41.116818,16.866609,"bici"
+5,"Rider 5",41.117016,16.878408,"moto"
+6,"Rider 6",41.121461,16.871048,"auto"
+7,"Rider 7",41.125043,16.860940,"bici"
+8,"Rider 8",41.116351,16.876745,"moto"
