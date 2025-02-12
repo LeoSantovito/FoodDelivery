@@ -1,1 +1,1 @@
-Per osservare il funzionamento del sistema, scaricare il progetto ed eseguire start.py.
+Per osservare il funzionamento completo del sistema, scaricare il progetto ed eseguire start.py. In alternativa gli script possono esssere eseguiti separatamente. Dopo la prima esecuzione verrà generato il file di fatti sulla base dei file csv e il json con le consegne da effettuare.
